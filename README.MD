@@ -2,11 +2,13 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&center=true&lines=Hello+there!;Welcome+to+Shafeeq's+GitHub+Profile" alt="Typing SVG" /></a>
 
-<h1>Hi 👋, I work as an AI Software Engineer @ Resilience, Inc.</h1>
+<h1>Hi 👋, I am Shafeeq Sadiq.</h1>
 
 <p>I focus on building meaningful projects that tackle real-world problems and create impact.</p>
 
-<p>I have experience developing full-stack applications, deep learning solutions, and cross-platform mobile apps for Android and iOS using Expo. I’ve also worked on robotics simulation platforms, interactive web maps using QGIS for spatial data processing, and data analytics systems with pipeline monitoring.</p>
+<p>Some of my highlight project experiences includes developing full-stack applications, deep learning solutions, and cross-platform mobile apps for Android and iOS using Expo. I’ve also worked on robotics simulation platforms, interactive web maps using QGIS for spatial data processing, and data analytics systems with pipeline monitoring.</p>
+
+<p>Head to my repositories section to find out more details about all the projects and technologies that I have worked on.</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 
