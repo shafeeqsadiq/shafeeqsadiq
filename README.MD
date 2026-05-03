@@ -23,7 +23,7 @@
   <code><img title="React" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
   <code><img title="CSS3" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
   <code><img title="HTML5" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
-  <code><img title="Express" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>
+  <code><img title="Express" height="42" src="https://skillicons.dev/icons?i=express"></code>
   <code><img title="Node.js" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
   <code><img title="Apache Kafka" height="42" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"></code>
   <code><img title="SQLite" height="42" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
@@ -34,7 +34,7 @@
   <code><img title="GCP" height="42" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
   <code><img title="Azure" height="42" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
   <code><img title="Firebase" height="42" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
-  <code><img title="Flask" height="42" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code>
+  <code><img title="Flask" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"></code>
   <code><img title="Nginx" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></code>
   <code><img title="PostgreSQL" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
   <code><img title="Android" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"></code>
