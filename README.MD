@@ -6,7 +6,7 @@
 
 <p>I focus on building meaningful projects that tackle real-world problems and create impact.</p>
 
-<p>Some of my highlight project experiences includes developing full-stack applications, deep learning solutions, and cross-platform mobile apps for Android and iOS using Expo. I’ve also worked on robotics simulation platforms, interactive web maps using QGIS for spatial data processing, and data analytics systems with pipeline monitoring.</p>
+<p>My projects reflect a curiosity for solving complex problems, experimenting with new ideas, and turning concepts into practical applications. I'm always looking to learn, improve, and create work that makes an impact.</p>
 
 <p>Head to my repositories section to find out more details about all the projects and technologies that I have worked on.</p>
 
